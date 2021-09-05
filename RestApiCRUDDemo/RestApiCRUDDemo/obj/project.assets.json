@@ -8562,23 +8562,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ASUS\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\shifa\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\RestApiCRUDDemo\\RestApiCRUDDemo\\RestApiCRUDDemo.csproj",
+      "projectUniqueName": "C:\\Users\\shifa\\source\\repos\\AspDotNetCore-CRUD-Web-API-Demo-\\RestApiCRUDDemo\\RestApiCRUDDemo\\RestApiCRUDDemo.csproj",
       "projectName": "RestApiCRUDDemo",
-      "projectPath": "C:\\Users\\ASUS\\source\\repos\\RestApiCRUDDemo\\RestApiCRUDDemo\\RestApiCRUDDemo.csproj",
-      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\source\\repos\\RestApiCRUDDemo\\RestApiCRUDDemo\\obj\\",
+      "projectPath": "C:\\Users\\shifa\\source\\repos\\AspDotNetCore-CRUD-Web-API-Demo-\\RestApiCRUDDemo\\RestApiCRUDDemo\\RestApiCRUDDemo.csproj",
+      "packagesPath": "C:\\Users\\shifa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\shifa\\source\\repos\\AspDotNetCore-CRUD-Web-API-Demo-\\RestApiCRUDDemo\\RestApiCRUDDemo\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\shifa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8590,6 +8586,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -8601,6 +8598,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
@@ -8639,7 +8637,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   },
